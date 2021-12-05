@@ -1,6 +1,6 @@
 {
 	"name": "cloudreve",
-	"description": "Deploy cloudreve on Heroku.",
+	"description": "my cloudreve",
 	"keywords": ["cloudreve"],
 	"env": {
 		"MyEnv": {
@@ -8,7 +8,7 @@
 			"value": "MyEnv value"
 		}
 	},
-	"website": "https://blog.evilcode.cf/",
-	"repository": "https://github.com/icodecho/cloudreve-heroku",
+	"website": "https://blog.toame.tk/",
+	"repository": "https://github.com/ToSeeAll/cloud",
 	"stack": "container"
 }
