@@ -1,2 +1,2 @@
 FROM jellyfin/jellyfin
-ENTRYPOINT ["/bin/sh"]
+CMD ["/bin/sh"]
