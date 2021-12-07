@@ -1,7 +1,7 @@
 {
-	"name": "cloudreve",
-	"description": "my cloudreve",
-	"keywords": ["cloudreve"],
+	"name": "bt",
+	"description": "my application",
+	"keywords": ["bt"],
 	"env": {
 		"MyEnv": {
 			"description": "MyEnv description",
@@ -9,6 +9,6 @@
 		}
 	},
 	"website": "https://blog.toame.tk/",
-	"repository": "https://github.com/ToSeeAll/cloud",
+	"repository": "https://github.com/TheCardistry/BT",
 	"stack": "container"
 }
